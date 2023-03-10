@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9b2da266fc4110a794474f4313e3d7c923b1cb28b57d3264100634bdc775e0e4"
+build_start_time: [1677645111, 217093944]
+build_end_time: [1677645111, 268579959]
+inputs:
+  "/Users/hlg/personal/hws/hws/ContentView.swift": !dirty [1677644605, 625710964]
+  "/Users/hlg/personal/hws/hws/hwsApp.swift": !dirty [1677641590, 162197589]

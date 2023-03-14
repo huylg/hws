@@ -9,15 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "folder")
-                .imageScale(.large)
-            Text("oops oops").foregroundColor(.red).background(.cyan).italic()
-            Label("Flag", systemImage: "flag.fill")
-                .padding()
-                .background(.regularMaterial)
-        }
-        .padding()
+        VStack
+    
     }
 }
 
